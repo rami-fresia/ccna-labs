@@ -8,16 +8,9 @@
 
 ## Topología
 
-Datos base de los switches:
+<img width="610" height="427" alt="image" src="https://github.com/user-attachments/assets/c899b2cf-a392-437d-a50e-576731e0c2df" />
 
-| Switch | Prioridad | MAC | Notas |
-|--------|-----------|-----|-------|
-| SW1 | 32769 | 0005.5E4E.714B | |
-| SW2 | 32769 | 00D0.5882.4834 | |
-| SW3 | 32769 | 000C.8519.6EBA | |
-| SW4 | 32769 | 00E0.A381.AD46 | |
 
-> Hubs: Hub0 (entre PC1/PC2 y SW1), Hub1 (entre SW1 y SW3).
 
 ---
 
